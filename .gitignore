@@ -39,3 +39,5 @@ admin/.vercel
 # typescript
 admin/*.tsbuildinfo
 admin/next-env.d.ts
+
+admin/lib/generated/prisma
